@@ -15,12 +15,12 @@
     "ms": "^2.1.1",
     "request": "^2.88.0",
     "roles": "0.0.4"
-    "platform" : ""
-    "asyncio" : ""
-    "colorsys" : ""
-    "random" : ""
-    "os" : ""
-    "time" : ""
+    "platform" 
+    "asyncio"
+    "colorsys"
+    "random" 
+    "os" 
+    "time" 
   },
   "devDependencies": {},
   "scripts": {
