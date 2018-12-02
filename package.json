@@ -20,7 +20,7 @@
     "colorsys": "^0.1",
     "random": "^0.1", 
     "os": "^0.1", 
-    "time": "^0.1", 
+    "time": "^0.1" 
   },
   "devDependencies": {},
   "scripts": {
